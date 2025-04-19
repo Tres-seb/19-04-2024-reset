@@ -574,7 +574,7 @@ img, iframe {
   height: auto;
   object-position: center;
   display: block;
- margin: 10px ;
+ margin: 0 auto ;
  
 }
 .img-box{
